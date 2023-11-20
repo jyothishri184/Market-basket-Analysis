@@ -43,7 +43,15 @@ cd MARKET-BASKET-ANALYSIS
 
 # Install dependencies
 pip install -r requirements.txt
+```
+Team and Acknowledgments
+This project is a testament to the spirit of collaboration and innovation. We express our heartfelt gratitude to everyone who has contributed their time, expertise, and passion to bring the Market Basket Analysis.
 
-## Requirements
-Ensure you have the required Python libraries installed:
+The Visionaries Behind Market Basket Analysis
+
+JYOTHI SHRI S - Email: [shrijyothi184@gmail.com](mailto:shrijyothi184@gmail.com)
+PRASSHANTHINI R - Email: [prasshanthinir.21aid@kongu.edu](mailto:prasshanthinir.21aid@kongu.edu)
+SANJAY R - Email: [sanjayr.21aid@kongu.edu](mailto:sanjayr.21aid@kongu.edu)
+
+
 

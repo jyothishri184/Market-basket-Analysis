@@ -43,7 +43,7 @@ Follow these steps to get started with Market Basket Analysis:
 git clone https://github.com//jyothishri184/Market-basket-Analysis.git
 
 # Navigate to the project directory
-cd MARKET-BASKET-ANALYSIS
+cd Market-basket-Analysis
 
 # Install dependencies
 pip install -r requirements.txt

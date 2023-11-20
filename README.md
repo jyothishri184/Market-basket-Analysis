@@ -29,7 +29,7 @@ Follow these steps to get started with Market Basket Analysis:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Prassha0908/MARKET-BASKET-ANALYSIS.git
+git clone https://github.com//jyothishri184/Market-basket-Analysis.git
 
 # Navigate to the project directory
 cd MARKET-BASKET-ANALYSIS

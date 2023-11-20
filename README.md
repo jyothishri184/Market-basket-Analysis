@@ -1,5 +1,16 @@
 # Market Basket Analysis Using Python 🛒
-**Data Analysis Project**
+**Big Data Analysis Project**
+
+## Table of Contents
+1. [Market Basket Analysis Overview](#market-basket-analysis-overview)
+2. [Introduction](#introduction)
+3. [Features](#features)
+4. [Why Use This Tool?](#why-use-this-tool)
+5. [Python Libraries Used](#python-libraries-used)
+6. [Quick Start](#quick-start)
+7. [Team and Acknowledgments](#team-and-acknowledgments)
+8. [License](#license)
+
 
 ## Market Basket Analysis Overview
 Market Basket Analysis is a data analysis technique that identifies relationships between products frequently purchased together. By examining transaction data, it helps businesses understand customer behavior and improve product placement, promotions, and recommendations.

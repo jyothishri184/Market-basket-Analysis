@@ -8,7 +8,7 @@
 5. [Acknowledgments](#acknowledgments)
 
 ## Market Basket Analysis Overview
-Market Basket Analysis is a data analysis technique that identifies relationships between products frequently purchased together. By examining transaction data, it helps businesses understand customer behavior and improve product placement, promotions, and recommendations.
+Market Basket Analysis is a data analysis technique that identifies relationships between products frequently purchased together. By examining transaction data, it helps businesses understand customer behavior and improve product placement, promotions, and recommendations. // changeeee
 
 
 ## Python Libraries Used
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
  ⚡Use this data for further steps.
 
- ⚡Or you can directly download the local_output.csv for further steps.
+ ⚡Or you can directly use the local_output.csv from Data folder for further steps.
 
 // changeeeeeeeeee
 

@@ -22,6 +22,7 @@ Market Basket Analysis is a data analysis technique that identifies relationship
 ## Quick Start
 Follow these steps to get started with Market Basket Analysis:
 
+1. Cloning
 ```bash
 # Clone the repository
 git clone https://github.com//jyothishri184/Market-basket-Analysis.git
@@ -32,6 +33,20 @@ cd Market-basket-Analysis
 # Install dependencies
 pip install -r requirements.txt
 ```
+
+2. Run the preprocessing notebook:
+
+ ⚡Open and run the Pre_Processing_Market_Basket_Analysis.ipynb notebook.
+ 
+ ⚡This notebook processes the provided online_retail_II_10_11.csv data and generates the local_output.csv file.
+
+3. Explore the preprocessed data 
+ ⚡The local_output.csv file contains the preprocessed data.
+
+ ⚡Use this data for further steps.
+
+or You can directly download the local_output.csv for further steps.
+
 // changeeeeeeeeee
 
 ## License

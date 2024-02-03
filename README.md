@@ -31,20 +31,24 @@ cd Market-basket-Analysis
 pip install -r requirements.txt
 ```
 
+
 2. Run the preprocessing notebook:
 
  ⚡Open and run the Pre_Processing_Market_Basket_Analysis.ipynb notebook.
  
  ⚡This notebook processes the provided online_retail_II_10_11.csv data and generates the local_output.csv file.
 
-3. Explore the preprocessed data 
+
+3. Explore the preprocessed data
+   
  ⚡The local_output.csv file contains the preprocessed data.
 
  ⚡Use this data for further steps.
 
-or You can directly download the local_output.csv for further steps.
+ ⚡Or you can directly download the local_output.csv for further steps.
 
 // changeeeeeeeeee
+
 
 ## License
 This Power BI Cryptocurrency Analysis project is licensed under the MIT License.

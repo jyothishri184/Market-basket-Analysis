@@ -12,9 +12,9 @@ Market Basket Analysis is a data analysis technique that identifies relationship
 
 
 ## Python Libraries Used
-- 🌟 Pandas
-- 🌟 Numpy
-- 🌟 Pyspark // changeeeeeeeeee
+ 🌟 Pandas
+ 🌟 Numpy
+ 🌟 Pyspark // changeeeeeeeeee
 
 ## Quick Start
 Follow these steps to get started with Market Basket Analysis:

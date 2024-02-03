@@ -17,8 +17,7 @@ Market Basket Analysis is a data analysis technique that identifies relationship
 ## Python Libraries Used
 - 🌟 Pandas
 - 🌟 Numpy
-- 🌟 Scikit-learn
-- 🌟 Pyspark
+- 🌟 Pyspark // changeeeeeeeeee
 
 ## Quick Start
 Follow these steps to get started with Market Basket Analysis:
@@ -33,6 +32,7 @@ cd Market-basket-Analysis
 # Install dependencies
 pip install -r requirements.txt
 ```
+// changeeeeeeeeee
 
 ## License
 This Power BI Cryptocurrency Analysis project is licensed under the MIT License.

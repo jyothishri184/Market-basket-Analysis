@@ -20,6 +20,7 @@ A simple example of market basket analysis is a grocery store analyzing its sale
 The FP Growth algorithm in data mining generates frequent itemsets efficiently by constructing an Trie data structure. Apriori algorithm is also an most used algorithm but FPGrowth uses an alternative way to find frequent itemsets without candidate generations which take a lot of memory and process time, this makes this algorithm performance is better than Apriori.
 
 ## Python Libraries Used
+
  🌟 Pandas
  
  🌟 Numpy
@@ -28,12 +29,13 @@ The FP Growth algorithm in data mining generates frequent itemsets efficiently b
  
  🌟 Scikit-learn
 
- ## FPGrwoth algorithm
+
 
 ## Quick Start
 Follow these steps to get started with Market Basket Analysis:
 
-1. Cloning
+Cloning
+
 ```bash
 # Clone the repository
 git clone https://github.com//jyothishri184/Market-basket-Analysis.git
@@ -46,16 +48,25 @@ pip install -r requirements.txt
 ```
 
 
-2. Preprocessing:
-
  ⚡Open and run the Pre_Processing_Market_Basket_Analysis.ipynb notebook and Explore pre-processing.
-
-
-3. Algorithm
    
  ⚡The local_output.csv file contains the preprocessed data, use it for further steps.
+ 
+ ⚡Open and run the Algorithm_Market_Basket_Analysis.ipynb notebook and Explore the algorithm.
 
  
+# Results 
+Data Visualisation:
+
+Data is visualised using networkx and matplotlib
+
+
+![Screenshot (225)](https://github.com/jyothishri184/Market-basket-Analysis/assets/106957211/20b8325d-9437-49cf-ac84-b8f286ec7499)
+
+
+
+![Screenshot (226)](https://github.com/jyothishri184/Market-basket-Analysis/assets/106957211/f7d944f5-4648-4414-b565-529d30a77cc6)
+
 
 
 ## License

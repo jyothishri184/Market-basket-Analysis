@@ -15,6 +15,9 @@ A simple example of market basket analysis is a grocery store analyzing its sale
    
    🎈Example: The store may find that customers who buy bread often purchase butter and jam.
 
+![Screenshot (227)](https://github.com/jyothishri184/Market-basket-Analysis/assets/106957211/8ed4bdbd-c7f9-45e0-8168-db4b1a539ba4)
+
+
 ## FPGrwoth algorithm
 
 The FP Growth algorithm in data mining generates frequent itemsets efficiently by constructing an Trie data structure. Apriori algorithm is also an most used algorithm but FPGrowth uses an alternative way to find frequent itemsets without candidate generations which take a lot of memory and process time, this makes this algorithm performance is better than Apriori.

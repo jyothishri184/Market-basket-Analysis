@@ -8,14 +8,13 @@
 5. [Acknowledgments](#acknowledgments)
 
 ## Market Basket Analysis Overview
-Market Basket Analysis is a data analysis technique that identifies relationships between products frequently purchased together. By examining transaction data, it helps businesses understand customer behavior and improve product placement, promotions, and recommendations. // changeeee
 
-## Python Libraries Used
- 🌟 Pandas
- 
- 🌟 Numpy
- 
- 🌟 Pyspark // changeeeeeeeeee
+### To identify purchasing patterns !!
+
+A simple example of market basket analysis is a grocery store analyzing its sales data to identify which products are frequently purchased together. 
+   🎈Example: The store may find that customers who buy bread often purchase butter and jam.
+
+
 
 ## Quick Start
 Follow these steps to get started with Market Basket Analysis:
@@ -33,23 +32,22 @@ pip install -r requirements.txt
 ```
 
 
-2. Run the preprocessing notebook:
+2. Preprocessing:
 
- ⚡Open and run the Pre_Processing_Market_Basket_Analysis.ipynb notebook.
- 
- ⚡This notebook processes the provided online_retail_II_10_11.csv data and generates the local_output.csv file.
+ ⚡Open and run the Pre_Processing_Market_Basket_Analysis.ipynb notebook and Explore pre-processing.
 
 
-3. Explore the preprocessed data
+3. Algorithm
    
- ⚡The local_output.csv file contains the preprocessed data.
+ ⚡The local_output.csv file contains the preprocessed data, use it for further steps.
 
- ⚡Use this data for further steps.
-
- ⚡Or you can directly use the local_output.csv from Data folder for further steps.
-
-// changeeeeeeeeee
-
+ 
+## Python Libraries Used
+ 🌟 Pandas
+ 
+ 🌟 Numpy
+ 
+ 🌟 Pyspark // changeeeeeeeeee
 
 ## License
 This Power BI Cryptocurrency Analysis project is licensed under the MIT License.

@@ -55,14 +55,15 @@ pip install -r requirements.txt
 
  
 # Results 
-Data Visualisation:
 
-Data is visualised using networkx and matplotlib
+ ##Data Visualisation using networkx and matplotlib:
 
+1. When a customer buys "PAPER CHAIN KETO'S CHRISTMAS" they also tend to buy "BOX OF 6 MINI CRAKERS" , "JUMBO BAG 50'S CHRISTMAS" etc
 
 ![Screenshot (225)](https://github.com/jyothishri184/Market-basket-Analysis/assets/106957211/20b8325d-9437-49cf-ac84-b8f286ec7499)
 
 
+2. When a customer buys "HAND WARMER UNION JACK" and "HAND WARMER RED POLKA DOT" together they also tend to buy "HAND WARMER BIRD DESIGN" 
 
 ![Screenshot (226)](https://github.com/jyothishri184/Market-basket-Analysis/assets/106957211/f7d944f5-4648-4414-b565-529d30a77cc6)
 

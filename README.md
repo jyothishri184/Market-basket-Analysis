@@ -4,8 +4,9 @@
 1. [Market Basket Analysis Overview](#market-basket-analysis-overview)
 2. [Python Libraries Used](#python-libraries-used)
 3. [Quick Start](#quick-start)
-4. [License](#license)
-5. [Acknowledgments](#acknowledgments)
+4. [Results](#results)
+5. [License](#license)
+6. [Acknowledgments](#acknowledgments)
 
 ## Market Basket Analysis Overview
 
@@ -73,7 +74,7 @@ pip install -r requirements.txt
 
 
 ## License
-This Power BI Cryptocurrency Analysis project is licensed under the MIT License.
+This Market Basket Analysis project is licensed under the MIT License.
 
 ## Acknowledgments
 

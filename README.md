@@ -9,12 +9,25 @@
 
 ## Market Basket Analysis Overview
 
-### To identify purchasing patterns !!
+       ### To identify purchasing patterns !!
 
 A simple example of market basket analysis is a grocery store analyzing its sales data to identify which products are frequently purchased together. 
    🎈Example: The store may find that customers who buy bread often purchase butter and jam.
 
+## FPGrwoth algorithm
 
+The FP Growth algorithm in data mining generates frequent itemsets efficiently by constructing an Trie data structure. Apriori algorithm is also a good algorithm used but FPGrowth uses an alternative way to find frequent itemsets without candidate generations which take a lot of memory and process time, this makes this algorithm performance is better than Apriori.
+
+## Python Libraries Used
+ 🌟 Pandas
+ 
+ 🌟 Numpy
+ 
+ 🌟 Pyspark 
+ 
+ 🌟 Scikit-learn
+
+ ## FPGrwoth algorithm
 
 ## Quick Start
 Follow these steps to get started with Market Basket Analysis:
@@ -42,12 +55,7 @@ pip install -r requirements.txt
  ⚡The local_output.csv file contains the preprocessed data, use it for further steps.
 
  
-## Python Libraries Used
- 🌟 Pandas
- 
- 🌟 Numpy
- 
- 🌟 Pyspark // changeeeeeeeeee
+
 
 ## License
 This Power BI Cryptocurrency Analysis project is licensed under the MIT License.

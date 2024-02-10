@@ -34,7 +34,6 @@ The FP Growth algorithm in data mining generates frequent itemsets efficiently b
 ## Quick Start
 Follow these steps to get started with Market Basket Analysis:
 
-Cloning
 
 ```bash
 # Clone the repository

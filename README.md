@@ -56,7 +56,7 @@ pip install -r requirements.txt
  
 # Results 
 
- ##Data Visualisation using networkx and matplotlib:
+ ## Data Visualisation using networkx and matplotlib:
 
 1. When a customer buys "PAPER CHAIN KETO'S CHRISTMAS" they also tend to buy "BOX OF 6 MINI CRAKERS" , "JUMBO BAG 50'S CHRISTMAS" etc
 

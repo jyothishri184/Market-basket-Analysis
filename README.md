@@ -6,8 +6,7 @@
 3. [Quick Start](#quick-start)
 4. [Results](#results)
 5. [License](#license)
-6. [Acknowledgments](#acknowledgments)
-
+6. [Contact](#contact)
 ## Market Basket Analysis Overview
 
    ### To identify purchasing patterns !!
@@ -74,8 +73,17 @@ pip install -r requirements.txt
 
 
 ## License
+
 This Market Basket Analysis project is licensed under the MIT License.
 
+## Contact
+
+For any inquiries or feedback regarding the project, feel free to reach out to the creator and maintainer:
+
+**JYOTHI SHRI**
+- Email: [shrijyothi184@gmail.com](mailto:shrijyothi184@gmail.com)
+
+  
 ## Acknowledgments
 
 Special thanks to the open-source community and contributors for inspiration and learning resources.

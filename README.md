@@ -50,11 +50,11 @@ pip install -r requirements.txt
 ```
 
 
- ⚡Open and run the Pre_Processing_Market_Basket_Analysis.ipynb notebook and Explore pre-processing.
+ ⚡Open and run the pre_processing_market_basket_analysis.py and Explore pre-processing.
    
  ⚡The local_output.csv file contains the preprocessed data, use it for further steps.
  
- ⚡Open and run the Algorithm_Market_Basket_Analysis.ipynb notebook and Explore the algorithm.
+ ⚡Open and run the algorithm_market_basket_analysis.py and Explore the algorithm.
 
  
 # Results 

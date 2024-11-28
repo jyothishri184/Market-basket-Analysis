@@ -11,7 +11,7 @@
 
    ### To identify purchasing patterns !!
 
-A simple example of market basket analysis is a grocery store analyzing its sales data to identify which products are frequently purchased together. 
+A simple example of market basket analysis is a grocery store analyzing its sales data to identify which products are frequently purchased together.
    
    🎈Example: The store may find that customers who buy bread often purchase butter and jam.
 
